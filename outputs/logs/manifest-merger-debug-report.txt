@@ -1,0 +1,413 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\30b36b44954b88771f1845dda376d0e9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.florent37:shapeofview:1.3.2] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\shapeofview-1.3.2.aar\2981ecda7f4f67d1af8fb04d41c1e669\AndroidManifest.xml:2:1-11:12
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\e86eee4dc2a14c2e6d9d5bbd2833f8dd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86864fce28ee5c65889b50c66b8eca09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e1c0ff16b4337afcd82e25daebc61c39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\115d6df60e1319f0d8768a74c2d5de9d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.anastr:speedviewlib:1.3.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\speedviewlib-1.3.1.aar\a30175deaf255cfea1b340b744eed84e\AndroidManifest.xml:2:1-14:12
+MERGED from [com.mikhaellopez:circularfillableloaders:1.3.2] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\circularfillableloaders-1.3.2.aar\81646d026bf41c77a7fd6a64aba2de2b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.1.aar\521ca4561eb04d33e1201c7c771f4f5d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1c9877334d5311c96e9e83191b2a5add\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.1.aar\f306fa5e524a27e454f02bcf29a2d3a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\94587aedb951eb3ddaf86173916bd075\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f438fcecc2ae8adfa8b26b933e53246d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\702e65f8b96a5a829086bab36373217e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\db7ec09a6d182a06d00569b4f4ae7aa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e8f253c3db64cb5947ce812f75a030e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\483cd73d4a4875f781581055d1b7d5a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\234d48f22607942b82b5d6a7aace04a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\471ba85a832d807d01fecaa4895b0df9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6a19ad8811760c0a468364e48dfb5eb6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b10411f8f5f1c8de55608380f70c72e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e500364eea66ddcc1be6ad0e191189b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\079b3ea1fd063a3f77715026bf5e43fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8bf5ec5b7d167a29cd3fbf89696022fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ff5ced992c63b299f70b2151defc5b12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cbcf3abb61fd7ca3a3822fb21be99a26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2cac62557ad8f062a8bff9375c0c89bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\323cfe0c50126e1cd56bbecddc2ee47f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\67e5ea10815ddfb8a6afda3b702d2898\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\684342d1841438a467656d61781436a0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d9fc5f163566dd0baeafec764a65a12\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\77711c9f2ee30bec3ce877228107dcda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3ab47d3d025ae94237bac9897a136456\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8a944afb91010796195cc62914184911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\51f5f17b87a0057766f48fa4ec0126ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e307b8dba006ab52c1f802c8f6cdf918\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e85641981e0316e8e6f55c0f6852780f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d513e1b9dbb7a6fb98bb3c03ec89a2b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\08bd726057f2215d89238902cc1b4477\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\eddeed9dc405e0e0d4f786f84a1723f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e51090fc4e62c27b85091e0445f55ef4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.1.aar\d342a9a27fa8ed4b52fa5904621529a0\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:4:5-46
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:8:22-76
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:9:19-67
+uses-feature#android.hardware.camera
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:10:19-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:16:5-81:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\30b36b44954b88771f1845dda376d0e9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\30b36b44954b88771f1845dda376d0e9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\115d6df60e1319f0d8768a74c2d5de9d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\115d6df60e1319f0d8768a74c2d5de9d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.anastr:speedviewlib:1.3.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\speedviewlib-1.3.1.aar\a30175deaf255cfea1b340b744eed84e\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.anastr:speedviewlib:1.3.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\speedviewlib-1.3.1.aar\a30175deaf255cfea1b340b744eed84e\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1c9877334d5311c96e9e83191b2a5add\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1c9877334d5311c96e9e83191b2a5add\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.1.aar\f306fa5e524a27e454f02bcf29a2d3a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.1.aar\f306fa5e524a27e454f02bcf29a2d3a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\94587aedb951eb3ddaf86173916bd075\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\94587aedb951eb3ddaf86173916bd075\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6a19ad8811760c0a468364e48dfb5eb6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6a19ad8811760c0a468364e48dfb5eb6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\67e5ea10815ddfb8a6afda3b702d2898\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\67e5ea10815ddfb8a6afda3b702d2898\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\684342d1841438a467656d61781436a0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\684342d1841438a467656d61781436a0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d9fc5f163566dd0baeafec764a65a12\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d9fc5f163566dd0baeafec764a65a12\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.1.aar\d342a9a27fa8ed4b52fa5904621529a0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.1.aar\d342a9a27fa8ed4b52fa5904621529a0\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\684342d1841438a467656d61781436a0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:19:9-41
+	tools:ignore
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:23:9-48
+	android:roundIcon
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:20:9-48
+	android:icon
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:22:9-40
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:25:9-27:70
+	android:value
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:27:13-67
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:26:13-69
+activity#com.faisal.hiddencameradetector.TipsContent.Outside
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:29:9-32:50
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:32:13-48
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:30:13-79
+activity#com.faisal.hiddencameradetector.TipsContent.Bedroom
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:33:9-35:51
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:33:19-85
+activity#com.faisal.hiddencameradetector.TipsContent.ChangingRoom
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:36:9-38:51
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:38:13-49
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:37:13-48
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:36:19-90
+activity#com.faisal.hiddencameradetector.TipsContent.Bathroom
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:39:9-42:51
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:40:13-80
+activity#com.faisal.hiddencameradetector.SplashScreen
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:43:9-53:20
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:47:13-49
+	android:parentActivityName
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:45:13-86
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:44:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:51:27-74
+activity#com.faisal.hiddencameradetector.MainActivity
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:54:9-58:47
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:56:13-42
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:55:13-72
+activity#com.faisal.hiddencameradetector.CameraIR
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:59:9-62:52
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:61:13-38
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:60:13-68
+activity#com.faisal.hiddencameradetector.MagneticRadiation
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:63:9-68:39
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:65:13-47
+	android:noHistory
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:68:13-37
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:67:13-52
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:64:13-77
+activity#com.faisal.hiddencameradetector.Instructions
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:71:9-74:52
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:73:13-41
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:72:13-72
+activity#com.faisal.hiddencameradetector.TipsTricks
+ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:75:9-79:51
+	android:screenOrientation
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:77:13-44
+	android:theme
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:78:13-52
+	android:name
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml:76:13-70
+uses-sdk
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\30b36b44954b88771f1845dda376d0e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\30b36b44954b88771f1845dda376d0e9\AndroidManifest.xml:20:5-44
+MERGED from [com.github.florent37:shapeofview:1.3.2] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\shapeofview-1.3.2.aar\2981ecda7f4f67d1af8fb04d41c1e669\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:shapeofview:1.3.2] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\shapeofview-1.3.2.aar\2981ecda7f4f67d1af8fb04d41c1e669\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\e86eee4dc2a14c2e6d9d5bbd2833f8dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\e86eee4dc2a14c2e6d9d5bbd2833f8dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86864fce28ee5c65889b50c66b8eca09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86864fce28ee5c65889b50c66b8eca09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e1c0ff16b4337afcd82e25daebc61c39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e1c0ff16b4337afcd82e25daebc61c39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\115d6df60e1319f0d8768a74c2d5de9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\115d6df60e1319f0d8768a74c2d5de9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.anastr:speedviewlib:1.3.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\speedviewlib-1.3.1.aar\a30175deaf255cfea1b340b744eed84e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.anastr:speedviewlib:1.3.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\speedviewlib-1.3.1.aar\a30175deaf255cfea1b340b744eed84e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularfillableloaders:1.3.2] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\circularfillableloaders-1.3.2.aar\81646d026bf41c77a7fd6a64aba2de2b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularfillableloaders:1.3.2] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\circularfillableloaders-1.3.2.aar\81646d026bf41c77a7fd6a64aba2de2b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.1.aar\521ca4561eb04d33e1201c7c771f4f5d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.1.aar\521ca4561eb04d33e1201c7c771f4f5d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1c9877334d5311c96e9e83191b2a5add\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\1c9877334d5311c96e9e83191b2a5add\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.1.aar\f306fa5e524a27e454f02bcf29a2d3a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.1.aar\f306fa5e524a27e454f02bcf29a2d3a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\94587aedb951eb3ddaf86173916bd075\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\94587aedb951eb3ddaf86173916bd075\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f438fcecc2ae8adfa8b26b933e53246d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f438fcecc2ae8adfa8b26b933e53246d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\702e65f8b96a5a829086bab36373217e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\702e65f8b96a5a829086bab36373217e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\db7ec09a6d182a06d00569b4f4ae7aa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\db7ec09a6d182a06d00569b4f4ae7aa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e8f253c3db64cb5947ce812f75a030e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e8f253c3db64cb5947ce812f75a030e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\483cd73d4a4875f781581055d1b7d5a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\483cd73d4a4875f781581055d1b7d5a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\234d48f22607942b82b5d6a7aace04a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\234d48f22607942b82b5d6a7aace04a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\471ba85a832d807d01fecaa4895b0df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\471ba85a832d807d01fecaa4895b0df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6a19ad8811760c0a468364e48dfb5eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6a19ad8811760c0a468364e48dfb5eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b10411f8f5f1c8de55608380f70c72e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b10411f8f5f1c8de55608380f70c72e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e500364eea66ddcc1be6ad0e191189b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e500364eea66ddcc1be6ad0e191189b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\079b3ea1fd063a3f77715026bf5e43fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\079b3ea1fd063a3f77715026bf5e43fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8bf5ec5b7d167a29cd3fbf89696022fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8bf5ec5b7d167a29cd3fbf89696022fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ff5ced992c63b299f70b2151defc5b12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ff5ced992c63b299f70b2151defc5b12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cbcf3abb61fd7ca3a3822fb21be99a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cbcf3abb61fd7ca3a3822fb21be99a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2cac62557ad8f062a8bff9375c0c89bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2cac62557ad8f062a8bff9375c0c89bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\323cfe0c50126e1cd56bbecddc2ee47f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\323cfe0c50126e1cd56bbecddc2ee47f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\67e5ea10815ddfb8a6afda3b702d2898\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\67e5ea10815ddfb8a6afda3b702d2898\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\684342d1841438a467656d61781436a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\684342d1841438a467656d61781436a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d9fc5f163566dd0baeafec764a65a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d9fc5f163566dd0baeafec764a65a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\77711c9f2ee30bec3ce877228107dcda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\77711c9f2ee30bec3ce877228107dcda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3ab47d3d025ae94237bac9897a136456\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3ab47d3d025ae94237bac9897a136456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8a944afb91010796195cc62914184911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8a944afb91010796195cc62914184911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\51f5f17b87a0057766f48fa4ec0126ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\51f5f17b87a0057766f48fa4ec0126ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e307b8dba006ab52c1f802c8f6cdf918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e307b8dba006ab52c1f802c8f6cdf918\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e85641981e0316e8e6f55c0f6852780f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e85641981e0316e8e6f55c0f6852780f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d513e1b9dbb7a6fb98bb3c03ec89a2b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d513e1b9dbb7a6fb98bb3c03ec89a2b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\08bd726057f2215d89238902cc1b4477\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\08bd726057f2215d89238902cc1b4477\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\eddeed9dc405e0e0d4f786f84a1723f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\eddeed9dc405e0e0d4f786f84a1723f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e51090fc4e62c27b85091e0445f55ef4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e51090fc4e62c27b85091e0445f55ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.1.aar\d342a9a27fa8ed4b52fa5904621529a0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.1.aar\d342a9a27fa8ed4b52fa5904621529a0\AndroidManifest.xml:5:5-44
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.1.aar\521ca4561eb04d33e1201c7c771f4f5d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HiddenCameraDetector-master\HiddenCameraDetector-master\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.1.aar\221489413b63c61000a83b10355c34c4\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\1a814bea041315e1438055291bb6fb73\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2db941c8cd37366a933f759e583dcd5\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6a19ad8811760c0a468364e48dfb5eb6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6a19ad8811760c0a468364e48dfb5eb6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\67e5ea10815ddfb8a6afda3b702d2898\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\67e5ea10815ddfb8a6afda3b702d2898\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Zaid\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\3c3a03aedbb834fa31cbb6713cdeb849\AndroidManifest.xml:27:13-51

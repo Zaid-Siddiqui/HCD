@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.faisal.hiddencameradetector">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7747740414798372~6605206806" />
+
+        <activity
+            android:name="com.faisal.hiddencameradetector.TipsContent.Outside"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeTips"/>
+        <activity android:name="com.faisal.hiddencameradetector.TipsContent.Bedroom"
+            android:theme="@style/AppThemeTips"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.faisal.hiddencameradetector.TipsContent.ChangingRoom"
+            android:theme="@style/AppThemeTips"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.faisal.hiddencameradetector.TipsContent.Bathroom"
+            android:theme="@style/AppThemeTips"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.faisal.hiddencameradetector.SplashScreen"
+            android:parentActivityName="com.faisal.hiddencameradetector.MainActivity"
+            android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.faisal.hiddencameradetector.MainActivity"
+            android:label="main_activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.faisal.hiddencameradetector.CameraIR"
+            android:label="camera_ir"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.faisal.hiddencameradetector.MagneticRadiation"
+            android:label="magnetic_radiation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeRadiaton"
+            android:noHistory="true"/>
+
+
+        <activity
+            android:name="com.faisal.hiddencameradetector.Instructions"
+            android:label="Instructions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.faisal.hiddencameradetector.TipsTricks"
+            android:label="Tips and Tricks"
+            android:theme="@style/AppThemeRadiaton"
+            android:screenOrientation="portrait"/>
+
+    </application>
+
+</manifest>
